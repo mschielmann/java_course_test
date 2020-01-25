@@ -1,6 +1,6 @@
 package pl.mschielmann.java.course.lesson4.exercise1;
 
-public class EmployeeSalaryCalculator {
+public class EmployeeSalaryCalculatorApp {
 
     /*
         1) Create an Employee class, that would allow you to create employee objects.

@@ -1,6 +1,6 @@
 package pl.mschielmann.java.course.lesson4.exercise2;
 
-public class FruitBasketsExercise {
+public class FruitBasketsApp {
 
     public static void main(String[] args) {
         Fruit[] fruitBasket = fruits;
