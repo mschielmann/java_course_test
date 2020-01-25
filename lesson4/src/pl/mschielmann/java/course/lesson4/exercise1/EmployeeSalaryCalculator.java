@@ -1,4 +1,4 @@
-package pl.mschielmann.java.course.lesson4;
+package pl.mschielmann.java.course.lesson4.exercise1;
 
 public class EmployeeSalaryCalculator {
 
