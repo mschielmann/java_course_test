@@ -26,7 +26,7 @@ class Person {
     public void setAge(Integer newAge) {
         if (newAge < age) {
             System.out.println("Sorry dear, you won't get any younger!");
-        } else if (newAge == age) {
+        } else if (newAge.equals(age)) {
             System.out.println("That is the current age, no need for update.");;
         } else {
             System.out.println("Everyone gets older, there is no need to feel bad about it.");
